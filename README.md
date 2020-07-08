@@ -5,6 +5,6 @@ The code tests the output of a sudoku solving algorithm by comparing it to the e
 
 ## Run
 
-`python sudoku-test.py -v`
+`python sudoku-unit-testing.py -v`
 
 The output is a report of the tried test cases in the code.
